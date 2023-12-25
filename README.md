@@ -32,4 +32,7 @@ line 14 : change the value
     array([220, 220, 220, ..., 233, 233, 232], dtype=uint8)
     Levenshtein Distance between 1  & 2 is 3436
 
+
+    python fastfeature.py 
+    
 ![Fast Feature reult!](/fastfeature.png "Fast Feature")
