@@ -10,11 +10,21 @@ Install
     pip install -r requierement.txt 
     python test2.py 
 
+line 14 : change the value 
+    threshold = 0.999
+
 ![Template Matching .999!](/res99.png "Template Matching .999")
 
+    threshold = 0.97
+
+    
 ![Template Matching .97!](/res97.png "Template Matching .97")
 
+    threshold = 0.95
+
 ![Template Matching .95!](/res95.png "Template Matching .95")
+
+    threshold = 0.90
 
 ![Template Matching .90!](/res95.png "Template Matching .90")
 
