@@ -40,14 +40,17 @@ line 14 : change the value
 ![Template Matching .90!](/res95.png "Template Matching .90")
 
 
-Wih 0.97 we save matching zone : 
+# Compute levenstein between Initial Area and BIK Area
 
+With 0.97 we save matching zone : 
+    Initial Zone
 ![Zone initiale!](/crop595_460.png  "Zone initiale")
+    Witness Area 
 ![Zone temoin!](/crop1127_81.png  "Zone temoin")
+    BIK Area 
 ![Zone BIK!](/crop843_523.png  "Zone BIK")
 
  
-
     python  levenstein.py
     array([220, 220, 220, ..., 233, 233, 232], dtype=uint8)
     Levenshtein Distance between 1  & 2 is 3436
