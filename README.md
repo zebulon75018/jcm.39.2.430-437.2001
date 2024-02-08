@@ -61,6 +61,17 @@ With 0.97 we save matching zone :
     array([220, 220, 220, ..., 233, 233, 232], dtype=uint8)
     Levenshtein Distance between initial Area & BIK Area  is 3436
 
+
+    chatgptdiff.py 
+    
+![Heatmap!](/heatmap2.png  "heatmap")
+
+
+![diff after linearisation of 2 images!](/histodiff.png  "diff after linearisation of two images")
+
+
+    
+
 # fastfeature
 
 https://docs.opencv.org/4.x/df/d0c/tutorial_py_fast.html
