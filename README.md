@@ -90,7 +90,7 @@ https://docs.opencv.org/4.x/df/d0c/tutorial_py_fast.html
 
 
 ```
-@techreport{vidal:hal-04926449,
+@article{vidal:hal-04926449,
   TITLE = {{Report on the allegations of Mrs. BIK}},
   AUTHOR = {Vidal, Charles and Raoult, Didier},
   URL = {https://hal.science/hal-04926449},
