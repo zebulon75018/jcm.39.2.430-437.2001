@@ -80,8 +80,25 @@ With 0.97 we save matching zone :
 https://docs.opencv.org/4.x/df/d0c/tutorial_py_fast.html
 
 
+
     python fastfeature.py 
 
 
     
 ![Fast Feature reult!](/fastfeature.png "Fast Feature")
+
+
+
+'''@techreport{vidal:hal-04926449,
+  TITLE = {{Report on the allegations of Mrs. BIK}},
+  AUTHOR = {Vidal, Charles and Raoult, Didier},
+  URL = {https://hal.science/hal-04926449},
+  INSTITUTION = {{AMU - Aix Marseille Universit{\'e}}},
+  YEAR = {2025},
+  MONTH = Feb,
+  KEYWORDS = {image duplication ; expertise},
+  PDF = {https://hal.science/hal-04926449v1/file/Report%20on%20E%20Bik%20allegations%20.pdf},
+  HAL_ID = {hal-04926449},
+  HAL_VERSION = {v1},
+}
+'''
